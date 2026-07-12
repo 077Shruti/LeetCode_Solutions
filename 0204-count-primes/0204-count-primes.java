@@ -5,18 +5,18 @@ class Solution {
 
         boolean[] arr = new boolean[n];
 
-        Arrays.fill(arr, true);
-        arr[0] = false;
-        arr[1] = false;
+        // Arrays.fill(arr, true);
+        arr[0] = true;
+        arr[1] = true;
         int ans = 0;
 
         for (int i = 2; i < n; i++) {
-            if (arr[i]) {
+            if (arr[i]==false) {
                 ans++;
 
                 int j = 2 * i;
                 while (j < n) {
-                    arr[j] = false;
+                    arr[j] = true;
                     j += i;
                 }
 
