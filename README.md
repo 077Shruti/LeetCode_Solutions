@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Enumeration
 |  |
 | ------- |
