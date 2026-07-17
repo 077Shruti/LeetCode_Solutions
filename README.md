@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Enumeration
 |  |
@@ -34,4 +36,5 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
