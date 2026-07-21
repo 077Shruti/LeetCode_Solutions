@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -41,6 +42,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
