@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Enumeration
@@ -37,4 +38,16 @@
 | ------- |
 | [0204-count-primes](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
