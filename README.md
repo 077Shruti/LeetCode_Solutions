@@ -16,6 +16,7 @@
 | [0392-is-subsequence](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/077Shruti/LeetCode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Hash Table
 |  |
 | ------- |
