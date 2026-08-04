@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -31,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -60,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
