@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -75,4 +77,8 @@
 | ------- |
 | [0078-subsets](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
