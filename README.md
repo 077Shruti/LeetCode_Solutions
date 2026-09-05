@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -66,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0392-is-subsequence) |
@@ -86,4 +89,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
