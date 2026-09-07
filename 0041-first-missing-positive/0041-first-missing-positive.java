@@ -10,7 +10,6 @@ class Solution {
             }
         }
         for(int i=0;i<A.length;i++){
-            System.out.println(A[i]);
            if(A[i]!=i+1){
                 return i+1;
            }
