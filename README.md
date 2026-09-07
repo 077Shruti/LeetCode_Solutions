@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/077Shruti/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
