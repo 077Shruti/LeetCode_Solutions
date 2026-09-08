@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -86,6 +87,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/077Shruti/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
